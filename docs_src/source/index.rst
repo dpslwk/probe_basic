@@ -20,11 +20,12 @@ for the `LinuxCNC <http://linuxcnc.org/>`_ machine control.
    dev_install
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Configuration:
 
    machine_config
    atc_setup
+   programmable_coolant_cannon_setup
 
 .. toctree::
    :maxdepth: 2

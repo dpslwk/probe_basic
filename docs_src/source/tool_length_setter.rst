@@ -18,9 +18,7 @@ the value for ``Spindle Zero`` is measure by probing the top of the setter using
 Tool Setter Setup
 -----------------
 .. image:: images/mill/tool_setter_setup.png
-   :align: center
 
 Measuring Tools
 ---------------
 .. image:: images/mill/tool_length_measure.png
-   :align: center

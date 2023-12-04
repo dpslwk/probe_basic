@@ -19,11 +19,6 @@ Probe Basic .deb Installation instructions
 
 
 .. image:: images/xfce_check_doc.png
-   :align: center
-
-
-
-
 
 **Download the Linux Debian 12 Bookworkm ISO Image File**
 
@@ -124,7 +119,7 @@ After installation, copy the following in the main terminal one line at a time a
 **To build your own machine configuration, please follow the instructions in this document:**
 
 
-https://forum.linuxcnc.org/qtpyvcp/48401-configuration-file-conversion-doc-for-probe-basic-py3
+:doc:`machine_config`
 
 
 **To uninstall enter each of the following commands one at a time or which ever items you wish to uninstall in main terminal and press enter. This will completely remove each package:**
